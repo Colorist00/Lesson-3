@@ -1,0 +1,23 @@
+header{
+    background-color: green;
+    width: 800px;
+    height: 10px;
+}
+h1{
+    text-align: center;
+ 
+}
+h3{
+    margin-left: 80px;
+    font-size: 12px;
+    margin-top: -20px;
+}
+#w{
+    margin-left: 80px;
+}
+a{
+    color: rgb(110, 178, 8);
+}
+#text{
+    margin-left: 80px;
+}
